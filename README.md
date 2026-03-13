@@ -11,7 +11,7 @@
 
 ### ⚡ RTL Designer · FPGA Engineer · Hardware Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=B.E.+EEE+%40+SSN+College+of+Engineering;FPGA+%7C+RTL+Design+%7C+VLSI;Building+Processors+from+Scratch+%F0%9F%94%A7;Verilog+%7C+SystemVerilog+%7C+Cadence" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=B.E.+EEE+%40+SSN+College+of+Engineering;FPGA+%7C+RTL+Design+%7C+VLSI;Building+Processors+from+Scratch+%F0%9F%94%A7;Verilog+%7C+Python+%7C+C;RTL+to+GDS+%7C+Cadence+Tools;Computer+Architecture+%7C+RISC-V;PCB+Design+%7C+KiCad+%7C+STM32" alt="Typing SVG" />
 
 <br/>
 
