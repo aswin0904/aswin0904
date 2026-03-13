@@ -32,10 +32,6 @@ module aswin_kumar (
   input  wire  curiosity,
   output reg   innovation
 );
-  // B.E. EEE @ SSN College of Engineering, Chennai
-  // Interests: RTL Design | FPGA | VLSI | Computer Architecture
-  // Currently: 5th Semester | CGPA: 8.24 / 10
-  
   always @(posedge passion) begin
     innovation <= curiosity & hardwork;
   end
@@ -44,7 +40,7 @@ endmodule
 ```
 
 > 🎯 Passionate about building hardware from the ground up — from RTL to silicon.  
-> 🏆 Qualified for **Top 100** in the **Eyantra Robotics Challenge**  
+> 🏆 Qualified for **Top 25** in the **Eyantra Robotics Challenge**  
 > 📍 Chennai, Tamil Nadu, India
 
 ---
@@ -161,53 +157,17 @@ endmodule
 </tr>
 </table>
 
----
-
-## 🎓 Certifications & Workshops
-
-| Course | Institute | Platform | Status |
-|--------|-----------|----------|--------|
-| 🏛️ **Computer Architecture** | IIT Delhi – Prof. Smruti Ranjan Sarangi | NPTEL | ✅ Completed |
-| 💡 **Hardware Modelling with Verilog** | IIT Kharagpur – Prof. Indranil Sen Gupta | NPTEL | ✅ Completed |
-| 🔬 **RTL to GDS (Full Physical Design Flow)** | SASTRA University | Workshop | ✅ Completed |
-
-> 🧪 RTL-to-GDSII workshop covered Cadence tools: **Genus · Innovus · Tempus · Modus**  
-> Designs implemented: full adder, shift registers, counters through complete physical design flow
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![Aswin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&layout=compact&langs_count=6)
-
 </div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-🥇 **Top 100** — Eyantra Robotics Challenge  
-📊 **96.2%** — Class 12 Board Exams  
-📐 **90.8 %ile** — JEE Mains  
-⭐ **CGPA 8.24/10** — B.E. EEE (till 5th Semester)
-
-</div>
-
----
 
 <div align="center">
 
 ### 💬 *"First, solve the problem. Then, write the code."*
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=YOUR_GITHUB_USERNAME&icon=6&color=6)
 
 ⚡ *If you find my work interesting, let's connect and build something amazing together!*
 
