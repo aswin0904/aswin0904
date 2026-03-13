@@ -135,7 +135,7 @@ endmodule
 ### 🔄 Encoder & Motor Control on FPGA
 ![Verilog](https://img.shields.io/badge/-Verilog-FF6B35?style=flat-square) ![Xilinx](https://img.shields.io/badge/-Xilinx-CC0000?style=flat-square)
 
-> Closed-loop BLDC motor control
+> Open-loop BLDC motor control
 
 - ✅ Rotary encoder for real-time angular feedback
 - ✅ BLDC control via ESC with precise PWM
